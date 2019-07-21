@@ -1,0 +1,5 @@
+.stack-work/
+NotificationPusher.cabal
+*~
+
+/.idea
